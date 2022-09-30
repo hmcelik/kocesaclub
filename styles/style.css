@@ -1,5 +1,7 @@
 html{
     scroll-behavior: smooth;
+    padding: 0;
+    margin: 0;
 }
 body{
     padding: 0;
@@ -15,6 +17,8 @@ ul{
     list-style: none;
     display: flex;
     justify-content: end;
+    padding: 0;
+    margin: 0;
 }
 li:first-child{
     margin-right: auto;
